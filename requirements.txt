@@ -1,0 +1,6 @@
+numpy==1.19.5
+torchvision==0.8.2+cu101
+matplotlib==3.3.3
+torch==1.7.1+cu101
+scikit_learn==0.24.2
+tensorboardX==2.2
